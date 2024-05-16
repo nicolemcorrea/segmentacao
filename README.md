@@ -1,5 +1,5 @@
 
-# Segmentação RFM e Análise de Cohort 
+# Segmentação RFM e Análise de Cohort 📈
 
 <details>
   <summary><strong style="font-size: 16px;">Objetivo</strong></summary>
